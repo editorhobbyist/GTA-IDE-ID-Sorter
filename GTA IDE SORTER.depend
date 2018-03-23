@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1521802852 source:c:\users\inan ahammad\desktop\gta ide sorter\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string>
+	<stdio.h>
+	<time.h>
+	"functions.h"
+
+1521803163 c:\users\inan ahammad\desktop\gta ide sorter\functions.h
+
+1521646604 c:\users\inan ahammad\desktop\gta ide sorter\logfuns.h
+
