@@ -1,3 +1,12 @@
+/*
+The below code have been done by Inan-Ahammad
+Special thanks to Parik.
+Please do not remove this comment block.
+*/
+
+
+
+
 #include <iostream>
 #include <fstream>
 #include <algorithm>
