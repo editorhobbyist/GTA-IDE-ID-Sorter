@@ -1,2 +1,2 @@
 # GTA-IDE-ID-Sorter
-Sorts the ID values of objects from the IDe files.The program isnt upto current standrad's and quite messy.Use this as your own will. 
+This program sorts ID values of objects from IDe files. It quite messy and not up to to current standrads; use it as your own will. 
